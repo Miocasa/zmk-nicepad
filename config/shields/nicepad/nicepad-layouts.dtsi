@@ -54,7 +54,7 @@
             ;
     };
  
-    corne_position_map {
+    nicepad_position_map {
         compatible = "zmk,physical-layout-position-map";
 
         complete;
