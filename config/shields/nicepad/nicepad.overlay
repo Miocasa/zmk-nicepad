@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "nicepad.dtsi"
+#include "nice.dtsi"
 
 &kscan0 {
     col-gpios
