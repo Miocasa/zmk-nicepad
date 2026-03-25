@@ -3,7 +3,7 @@ manifest:
     # - name: zmkfirmware
     #   url-base: https://github.com/zmkfirmware
     - name: zmkfirmware
-      url-base: https://github.com/Miocasa
+      url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
       remote: zmkfirmware
